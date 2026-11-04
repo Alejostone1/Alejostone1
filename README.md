@@ -43,13 +43,6 @@ Pereira, Colombia 🇨🇴
 
 ---
 
-### Estadísticas
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Alejostone1&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="Estadísticas de GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejostone1&layout=compact&hide_border=true&theme=transparent" alt="Lenguajes más usados" />
-</p>
-
 <div align="center">
 
 💬 **¿Tienes un proyecto en mente?** Escríbeme por [LinkedIn](https://www.linkedin.com/in/alejostone/) o conoce lo que hacemos en [DesarPro](https://github.com/Alejostone1/Desarpro).
